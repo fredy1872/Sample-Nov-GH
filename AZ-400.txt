@@ -1,0 +1,197 @@
+LET Portal:
+https://www.mykoenig.com/login
+Email: Registered Email Id used for Attendance
+Password: 196693
+
+Attendance Link:
+https://rms-new.netlify.app/third_party?batch_header=190463
+Trainer Name: Mohd Farhan
+
+Azure Documentation:
+https://learn.microsoft.com/en-us/azure/?product=popular
+
+MS Certifications:
+https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+
+Azure Portal:
+https://portal.azure.com
+
+DevOps Portal:
+https://dev.azure.com
+
+Azure DevOps Labs:
+https://www.azuredevopslabs.com/
+
+GitHub Instructions:
+https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
+
+12 Principles Behind the Agile Manifesto - 
+https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+
+
+Azure DevOps Servers:
+https://azure.microsoft.com/en-us/products/devops/server
+
+Azure DevOps Pricing:
+https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/
+
+Choose a Process flow in Azure Boards
+https://learn.microsoft.com/en-us/azure/devops/boards/work-items/guidance/choose-process?view=azure-devops&tabs=agile-process
+
+Plan and Track Workflow using Azure Boards:
+https://learn.microsoft.com/en-us/azure/devops/boards/get-started/plan-track-work?view=azure-devops&tabs=basic-process
+
+Expedite your workitem using swimlanes:
+https://learn.microsoft.com/en-us/azure/devops/boards/boards/expedite-work?view=azure-devops
+
+Azure DevOps User Access Level:
+https://learn.microsoft.com/en-us/azure/devops/organizations/security/access-levels?view=azure-devops
+
+Azure DevOps Integrate with Service Hooks:
+https://learn.microsoft.com/en-us/azure/devops/service-hooks/overview?view=azure-devops
+
+Manage Notification:
+https://learn.microsoft.com/en-us/azure/devops/organizations/notifications/manage-team-group-global-organization-notifications?view=azure-devops
+
+Azure DevOps Demo Data
+https://azuredevopsdemogenerator.azurewebsites.net/
+
+Version Control:
+https://learn.microsoft.com/en-us/devops/develop/git/what-is-version-control
+
+Choosing the right version control for your project:
+https://learn.microsoft.com/en-us/azure/devops/repos/tfvc/comparison-git-tfvc?view=azure-devops
+
+Azure Repos Key concepts and Terminology:
+https://learn.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos?view=azure-devops
+
+Azure Repos Merge Strategy:
+https://learn.microsoft.com/en-us/azure/devops/repos/git/merging-with-squash?view=azure-devops
+
+Azure Repos Documentation:
+https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops
+
+Advanced Security for Azure DevOps:
+https://learn.microsoft.com/en-us/azure/devops/repos/security/configure-github-advanced-security-features?view=azure-devops&tabs=yaml
+
+Default Git repository and branch permissions:
+https://learn.microsoft.com/en-us/azure/devops/organizations/security/default-git-permissions?view=azure-devops
+
+Set GIT branch permissions
+https://learn.microsoft.com/en-us/azure/devops/repos/git/branch-permissions?toc=%2Fazure%2Fdevops%2Forganizations%2Fsecurity%2Ftoc.json&view=azure-devops
+
+Azure Pipeline Agents:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=yaml%2Cbrowser
+
+Pipelines Parallel Jobs:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=ms-hosted
+
+Release gates and approvals overview:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/release/approvals/?view=azure-devops&tabs=yaml
+
+GitHub Actions For Azure:
+https://learn.microsoft.com/en-us/azure/developer/github/github-actions
+
+Deployment Environment:
+https://learn.microsoft.com/en-us/azure/deployment-environments/concept-environments-key-concepts
+
+Deployment Group:
+https://learn.microsoft.com/en-us/azure/devops/pipelines/release/deployment-groups/?view=azure-devops
+
+
+QuickStart Templates:
+https://learn.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-resource-manager
+
+Post Test QBit Link:
+
+
+
+Achievement URl:
+
+
+Interim Feedback Link:
+
+
+End Course Feedback Link:
+
+
+For Exam Preparation:
+
+1. Go through the content once again use MS Learn.
+
+2. Perform labs for module wise for clarification and explore the things.
+
+3. For Exam Type Questions Practice:
+
+https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications
+
+Duration: 120 Minutes
+Exam Time: 100 Minutes
+Pattern: MCQ & Case Study
+Paasing: 700/1000
+
+
+
+
+Set-Service Audiosrv -StartupType Automatic
+Start-service Audiosrv 
+
+MTM Feedback Link:
+https://www.metricsthatmatter.com/url/u.aspx?BDAFC160D211381616
+
+
+
+Achievement URL:
+https://learn.microsoft.com/en-us/users/me/achievements?redeem=QMKQ52&WT.mc_id=ilt_partner_webpage_wwl&ocid=508978&DCS=DEPR2410863
+
+QMKQ52
+
+
+Instruction To Access Labs:
+
+Training Key:  1AAF0368D8A14630
+
+1. In order to access Labs navigate to https://gsi.learnondemand.net
+2. From there, students should sign in with a Personal Microsoft Account (Live ID). 
+3. Students should always login with a Microsoft Account by selecting the Microsoft Account option. 
+4. After signing in, students should click Redeem Training Key at the top of the page and follow the prompts which will give students access to labs.
+
+
+GITHUB PAT:
+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
+
+Agent Pool register PAT:
+goullnb3onjz23vdx5k4srur3bpyqyy3istqrullnprzc7nr3beq
+
+Full Access Code Sonar PAT:
+dzaeh3yfoumc6e2q5xcxhjfbfi7knq5xjgqflk6biyfb3ys5qwmq
+
+
+
+
+{
+  "appId": "9df694e4-b30f-494f-bd1e-1694e49972e2",
+  "displayName": "az400julyspname1",
+  "password": "UY58Q~WDV-G5dDR9GIma8tV581rRRFyGlsLXva.-",
+  "tenant": "2228782e-9d37-407c-b25e-683cb62cad3a"
+}
+
+
+
+
+
+
+
+
+
+Payment Module (Epic)
+  - CC (Features)
+    1. Discount Offers (User story)
+        - Task
+    2. Redeem point
+    3. Last 05 transaction 
+
+  - DC (Features)
+  - UPI (Features)
+  - NB (Features)
+

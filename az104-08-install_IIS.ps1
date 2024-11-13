@@ -1,0 +1,36 @@
+powershell.exe Install-WindowsFeature -name Web-Server -IncludeManagementTools
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hi, I got excellent feedback and rating from clients in this batch. Kindly mark this assignment as outstanding. I am attaching the MTM feedback summary for your reference
